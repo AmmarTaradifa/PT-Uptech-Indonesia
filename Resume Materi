@@ -1,4 +1,4 @@
-- 02_Konsep Manajemen Proyek
+------- 02_Konsep Manajemen Proyek -------------
 
 Keberhasilan proyek perangkat lunak
 1. People
@@ -11,7 +11,7 @@ Penggabungan masalah dan proses
 3. Analisis resiko
 4. Rekayasa
 
-- 05_Perencanaan Proyek Perangkat Lunak
+------ 05_Perencanaan Proyek Perangkat Lunak ---------
 
 TUJUAN PERENCANAAN PROYEK
 Menyediakan sebuah kerangka kerja bagi pembuatan estimasi terhadap sumberdaya, biaya, dan jadual.  
@@ -27,15 +27,7 @@ Rangkaian pertanyaan bebas konteks yang berfokus kepada pelanggan tujuan keselur
 [3] 	apa yang menjadi keuntungan ekonomi dari sebuah solusi yang sukses, dan 
 [4] 	adakah sumberdaya lain bagi solusi ini
 
-06_Sumber Daya dan Struktur Organisasi Proyek
-
-MANAJEMEN SUMBERDAYA MANUSIA PROYEK
-
-Prinsip dalam mengelola proyek adalah melakukan manajemen terhadap sumber daya manusia yang mencakup perencanaan organisasi 
-(Organizational Planning), akuisisi karyawan (Staff Aquisition), dan pembentukan tim (Team Development)
-
-
-- 03_Proses Perangkat Lunak dan Metrik Proyek
+------ 03_Proses Perangkat Lunak dan Metrik Proyek --------
 
 Proses dalam manajemen proyek dibagi menjadi lima kelompok besar, masing-masing adalah:
 1. Proses Initiating – aktivitas terkait dengan persiapan pelaksanaan sebuah proyek
@@ -48,7 +40,7 @@ secara konsisten mengarah pada obyektif yang ingin dicapai; dan
 5. Proses Closing – aktivitas terkait dengan persetujuan formal bahwa proyek telah berakhir dan menghasilkan output yang ditargetkan.
 
 
-- 07_Manajemen Resiko Perangkat Lunak
+------ 07_Manajemen Resiko Perangkat Lunak -------
 
 Manajemen resiko perangkat lunak adalah pengelolaan dan minimasi kegagalan 
 yang mencakup aspek fungsionalitas, cost overruns, dan schedule overruns pada pengembangan perangkat lunak
