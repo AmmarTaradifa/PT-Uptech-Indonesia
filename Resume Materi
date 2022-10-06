@@ -1,0 +1,51 @@
+- 02_Konsep Manajemen Proyek
+
+Keberhasilan proyek perangkat lunak
+1. People
+2. Process
+3. Problem
+
+Penggabungan masalah dan proses
+1. Komunikasi dengan pelanggan
+2. Perencanaan 
+3. Analisis resiko
+4. Rekayasa
+
+- 05_Perencanaan Proyek Perangkat Lunak
+
+TUJUAN PERENCANAAN PROYEK
+Menyediakan sebuah kerangka kerja bagi pembuatan estimasi terhadap sumberdaya, biaya, dan jadual.  
+Tujuan perancanaan dapat dicapai melaui suatu proses penemuan informasi yang menunjuk ke arah estimasi yang dapat dipertanggungjawabkan.
+
+Pareto Diagram
+Diagram Pareto digunakan untuk pemecahan masalah yang dilaksanakan secara efisien dan terarah
+dengan jalan mengalokasikan waktu pada persoalan-persoalan yang memegang peranan yang paling penting.
+
+Rangkaian pertanyaan bebas konteks yang berfokus kepada pelanggan tujuan keseluruhan, dan keuntungan, misalnya: 
+[1] 	siapa di belakang permintaan kerja yang dilaksanakan, 
+[2] 	siapa yang akan memakai solusi ini, 
+[3] 	apa yang menjadi keuntungan ekonomi dari sebuah solusi yang sukses, dan 
+[4] 	adakah sumberdaya lain bagi solusi ini
+
+- 03_Proses Perangkat Lunak dan Metrik Proyek
+Proses dalam manajemen proyek dibagi menjadi lima kelompok besar, masing-masing adalah:
+1. Proses Initiating – aktivitas terkait dengan persiapan pelaksanaan sebuah proyek, 
+terutama menyangkut kesediaan stakeholder untuk menentukan obyektifnya dan sepakat untuk memiliki komitmen penuh mendukung proyek tersebut dalam hal alokasi berbagai sumber daya yang diperlukan;
+2. Proses Planning – aktivitas terkait dengan perencanaan pelaksanaan sebuah proyek, terutama dalam hal memperkirakan ruang lingkup, durasi, biaya, kualitas, dan parameter lain yang perlu dikelola di dalam proyek;
+3. Proses Executing – aktivitas terkait dengan menkoordinasikan orang-orang dan sumber daya ada untuk menjalankan sejumlah pekerjaan di dalam proyek agar menghasilkan output yang diinginkan atau ditargetkan;
+4. Proses Controlling – aktivitas terkait dengan pengawasan agar seluruh kegiatan yang dilakukan di dalam proyek secara konsisten mengarah pada obyektif yang ingin dicapai; dan
+5. Proses Closing – aktivitas terkait dengan persetujuan formal bahwa proyek telah berakhir dan menghasilkan output yang ditargetkan.
+
+
+- 07_Manajemen Resiko Perangkat Lunak
+
+Manajemen resiko perangkat lunak adalah pengelolaan dan minimasi kegagalan 
+yang mencakup aspek fungsionalitas, cost overruns, dan schedule overruns pada pengembangan perangkat lunak
+
+Kegiatan yang dilakukan dalam manajemen resiko (Karolak, 1999), adalah:
+1)  Risk Identification, yaitu melakukan identifikasi gejala resiko yang terjadi.
+2) 	Risk Strategy, yaitu merancang suatu tahapan langkah untuk menanggulangi resiko.
+3) 	Risk Assessment, yaitu mengukur akibat yang akan disebabkan resiko.
+4) 	Risk Mitigation, yaitu melakukan mitigasi dari hasil penilaian resiko.
+5) 	Risk Reporting, yaitu membuat penulisan terhadap seluruh kegiatan manajemen resiko sehingga dapat digunakan sebagai dasar analisis manajemen resiko berikutnya.
+6) 	Risk Prediction, yaitu membuat perkiraan akan resiko yang akan terjadi berikutnya dalam pengembangan perangkat lunak.
