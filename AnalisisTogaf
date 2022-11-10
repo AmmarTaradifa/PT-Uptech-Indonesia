@@ -1,0 +1,93 @@
+Phase C: Information Systems Architectures
+
+Phase ini berfungsi untuk pengembangan arsitektur target untuk domain aata dan aplikasi
+
+Untuk Arsitektur Data:
+Menentukan jenis dan sumber data yang diperlukan untuk mendukung bisnis, dengan cara yang dapat dipahami oleh para customer.
+
+Tahapan nya:
+1. Mengembangkan  Deskripsi Arsitektur Dasar
+2. Meninjau  dan memilih Prinsip, Model Referensi, Sudut Pandang, dan Alat
+3. Membuat Model Arsitektur Data
+4. Memilih Blok Bangunan Arsitektur Data
+5. Melakukan Tinjauan Pos Pemeriksaan Model Arsitektur
+6. Meninjau Kriteria Kualitatif
+7. Melengkapi  Arsitektur Data
+8. Melakukan Pos Pemeriksaan/Analisis Dampak
+9. Melakukan Analisis Kesenjangan dan Buat Laporan
+
+Untuk Arsitektur Aplikasi:
+Tentukan jenis sistem aplikasi yang diperlukan untuk memproses data dan mendukung bisnis.
+Tahapan nya:
+1. Kembangkan Deskripsi Arsitektur Aplikasi Baseline
+2. Tinjau dan Validasi Prinsip, pilih Model Referensi, Sudut Pandang, dan Alat
+3. Buat Model Arsitektur untuk setiap Sudut Pandang
+4. Identifikasi Aplikasi Kandidat
+5. Lakukan Tinjauan Pos Pemeriksaan
+6. Tinjau Kriteria Kualitatif
+7. Lengkapi Arsitektur Aplikasi
+8. Lakukan Analisis Kesenjangan dan Buat Laporan
+
+
+Best Practice:
+1. Permintaan Pekerjaan Arsitektur
+2. Pernyataan Karya Arsitektur
+3. Visi Arsitektur
+4. Prinsip Aplikas
+5. Prinsip Data
+
+Hubungannya dengan Smart Parking:
+Smart parking membutuhkan arsitektur data dan aplikasi yang tepat agar sistem nya berjalan sesuai harapan.
+Dengan menentukan jenis dan sumber data yang diperlukan untuk mendukung bisnis, dengan cara yang dapat dipahami oleh para customer(pihak kementrian),
+sistem smart parking bisa menjadi lebih transparan dan sesuai dengan kebutuhan dan budget yang di alokasi kan kementrian.
+Dan dengan menentukan jenis sistem aplikasi nya,dapat menghindari miscom antara pihak developer dan kementrian tentang sistem yang akan diterapkan
+Jika TOGAF phase C ini tidak diterapkan memungkinkan terjadi nya kesalahan pihak developer dalam menentukan arsitektur data dan aplikasi sesuai keinginan atau
+budget pihak kementrian
+
+
+Phase D: Technology Architecture
+
+Phase D berfungsi untuk mengembangkan Arsitektur Teknologi  yang akan menjadi dasar dari implementasi pekerjaan  .
+Tahapan nya:
+1. Kembangkan Deskripsi Arsitektur Teknologi Dasar
+2. Buat Arsitektur Teknologi Target:
+3. Buat Deskripsi Arsitektur Teknologi Baseline dalam terminologi layanan
+4. Pertimbangkan Model Referensi Arsitektur, Sudut Pandang, dan Alat yang berbeda
+5. Buat Model Arsitektur Blok Bangunan
+6. Pilih Portofolio Layanan per Blok Bangunan
+7. Konfirmasikan bahwa Sasaran dan Sasaran Bisnis Tercapai
+8. Pilih Kriteria Pemilihan Spesifikasi
+9. Lengkapi Definisi Arsitektur
+10. Lakukan Analisis Kesenjangan
+
+Best Practice:
+1. Visi Arsitektur
+2. Arsitektur Teknologi Dasar, Versi 0.1
+
+Hubungan dengan Smart Parking:
+Sistem smart parking membutuhkan arsitektur teknologi yang tepat agar saat diimplementasikan nanti bisa berfungsi dengan baik.
+Dengan mengembangkan arsitektur teknologi yang akan di pakai nantinya membuat pihak developer lebih mudah  merancang teknologi yang diperlukan
+misal nya untuk teknologi dalam gedung parkir,teknologi sensor dan pemindai bisa dikembangkan melalui tahap ini.
+Jika phase ini tidak diterapkan dan dikemudian hari teknologinya sudah lama,akan butuh biaya lagi untuk mengembangkan sistem tersebut
+
+
+
+Phase E: Peluang dan Solusi
+
+Phase ini berfungsi untuk mengevaluasi dan memilih opsi penerapan,identifikasi parameter strategis untuk perubahan dan proyek yang akan dilakukan,
+menilai biaya dan manfaat proyek dan menghasilkan strategi implementasi dan migrasi keseluruhan dan Rencana Implementasi yang terperinci
+Tahapan nya:
+1. Identifikasi Penggerak Bisnis Utama
+2. Tinjau Analisis Kesenjangan dari Fase D
+3. Persyaratan Teknis Brainstorm
+4. Brainstorm Persyaratan Lainnya
+5. Penilaian Arsitektur dan Analisis Kesenjangan
+6. Identifikasi Paket Kerja atau Proyek
+
+Best Practice:
+1. Blok Bangunan Arsitektur (Solusi) yang Dapat Digunakan Kembali dari Enterprise Continuum organisasi Anda
+2. Informasi produk
+
+Hubungan dengan Smart Parking:
+Dalam sistem smart parking 
+
