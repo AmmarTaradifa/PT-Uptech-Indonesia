@@ -85,9 +85,12 @@ Tahapan nya:
 6. Identifikasi Paket Kerja atau Proyek
 
 Best Practice:
-1. Blok Bangunan Arsitektur (Solusi) yang Dapat Digunakan Kembali dari Enterprise Continuum organisasi Anda
+1. Perencanaan solusi malfungsi sistem
 2. Informasi produk
 
 Hubungan dengan Smart Parking:
-Dalam sistem smart parking 
+Dalam smart parking dibutuhkan evaluasi implementasi sistem, pihak developer harus merancang kemungkinan kesalahan/error dari
+sistemnya dan membuat solusi dari masalah tersebut,jadi bilamana error tersebut benar terjadi solusi nya sudah ditemukan.
+Misalnya mesin scan kartu parkir error maka solusi dari masalah tersebut sudah diperisapkan
+Begitu pula dalam merancang inovasi dari peluang yang mungkin terjadi 
 
