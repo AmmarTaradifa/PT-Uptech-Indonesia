@@ -1,4 +1,5 @@
 # PT-Uptech-Indonesia
+![logo](https://user-images.githubusercontent.com/86569461/209859300-978cf4d0-ff58-4c04-bde4-d1057f6e5782.jpeg)
 
 proyek didapat dari [Kementrian PUPR](https://lpse.pu.go.id/eproc4/lelang/79622064/pengumumanlelang)
 ## Management Team
@@ -9,7 +10,9 @@ proyek didapat dari [Kementrian PUPR](https://lpse.pu.go.id/eproc4/lelang/796220
 - UI/UX Designer:	Arham Syuhada
 - IT Operation:	Aini Nur Fadilah 
 #Proyek Detail
-Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kementrian Pekerjaan Umum dan Perumahan Rakyat. Dengan deskripsi:
+Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kementrian Pekerjaan Umum dan Perumahan Rakyat. 
+
+Dengan deskripsi:
 - Sistem Smart Parking
 - Keluar Masuk kendaraan Dengan Smart Parking
 - terdapat registrasi kartu parkir untuk seluruh staf
@@ -26,7 +29,9 @@ Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kement
 ##Gannchart
 ![ganttchart](https://user-images.githubusercontent.com/86569461/209857917-61c3a100-2106-4895-8bc9-ea90e41f20b4.PNG)
 ![ganttchart22](https://user-images.githubusercontent.com/86569461/209857931-55bfed08-ae03-4c24-b8b9-d6c487154c1b.PNG)
-
+## Desain UI Aplikasi Smart Parking
+[UI Admin](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c089a4815a47?page-id=9c5ceddf-c68c-8036-8001-bf8405643fa5&section=interactions&index=0&share-id=35d247e6-89b4-8007-8001-d198be492452)
+[UI Pengguna](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c08980e1828c?page-id=036dc80b-fe30-8148-8001-b7fae9635754&section=interactions&index=0&share-id=0fb9115d-a827-815a-8001-d1993f6cf9d7&zoom=fit)
 
 
 
