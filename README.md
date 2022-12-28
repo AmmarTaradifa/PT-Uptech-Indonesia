@@ -25,13 +25,20 @@ Dengan deskripsi:
 
 # Proses Pembuatan Proyek
 ## Product Backlog
+
 ![pbacklog](https://user-images.githubusercontent.com/86569461/209857043-0bdc92b3-549b-4c2a-8e32-6c5e38e0691c.PNG)
-##Gannchart
+
+## Gannchart
+
 ![ganttchart](https://user-images.githubusercontent.com/86569461/209857917-61c3a100-2106-4895-8bc9-ea90e41f20b4.PNG)
+
 ![ganttchart22](https://user-images.githubusercontent.com/86569461/209857931-55bfed08-ae03-4c24-b8b9-d6c487154c1b.PNG)
+
 ## Desain UI Aplikasi Smart Parking
-[UI Admin](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c089a4815a47?page-id=9c5ceddf-c68c-8036-8001-bf8405643fa5&section=interactions&index=0&share-id=35d247e6-89b4-8007-8001-d198be492452)
-[UI Pengguna](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c08980e1828c?page-id=036dc80b-fe30-8148-8001-b7fae9635754&section=interactions&index=0&share-id=0fb9115d-a827-815a-8001-d1993f6cf9d7&zoom=fit)
+
+[Tampilan UI Admin](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c089a4815a47?page-id=9c5ceddf-c68c-8036-8001-bf8405643fa5&section=interactions&index=0&share-id=35d247e6-89b4-8007-8001-d198be492452)
+
+[Tampilan UI Pengguna](https://design.penpot.app/#/view/35dd4c70-bf14-80a7-8001-c08980e1828c?page-id=036dc80b-fe30-8148-8001-b7fae9635754&section=interactions&index=0&share-id=0fb9115d-a827-815a-8001-d1993f6cf9d7&zoom=fit)
 
 
 
