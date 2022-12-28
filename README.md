@@ -20,6 +20,8 @@ Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kement
 
 # Proses Pembuatan Proyek
 ## Product Backlog
+![pbacklog](https://user-images.githubusercontent.com/86569461/209857043-0bdc92b3-549b-4c2a-8e32-6c5e38e0691c.PNG)
+##Gannchart
 
 
 
