@@ -1,5 +1,5 @@
-## PT-Uptech-Indonesia
-# Management Team
+# PT-Uptech-Indonesia
+## Management Team
 - Product Owner:	PT. Uptech Indonesia
 - Project Sponsor:	Kementrian PUPR
 - Scrum Master:	Ammar Taradifa
@@ -18,8 +18,9 @@ Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kement
 - Mekanisme pengaduan
 - Terdapat statistik dari pengguna untuk diakses pengguna menggunakan Single Sign on kementerian
 
-##Proses Pembuatan Proyek
-# Ganchart
+# Proses Pembuatan Proyek
+## Product Backlog
+
 
 
 
