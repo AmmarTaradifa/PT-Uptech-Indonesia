@@ -2,6 +2,11 @@
 ![logo](https://user-images.githubusercontent.com/86569461/209859300-978cf4d0-ff58-4c04-bde4-d1057f6e5782.jpeg)
 
 proyek didapat dari [Kementrian PUPR](https://lpse.pu.go.id/eproc4/lelang/79622064/pengumumanlelang)
+
+## Dokumentasi Youtube
+
+Berikut Link [Youtubenya](https://youtu.be/wMso4WwPejE)
+
 ## Management Team
 - Product Owner:	PT. Uptech Indonesia
 - Project Sponsor:	Kementrian PUPR
