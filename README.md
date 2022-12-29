@@ -8,7 +8,7 @@ proyek didapat dari [Kementrian PUPR](https://lpse.pu.go.id/eproc4/lelang/796220
 - Scrum Master:	Ammar Taradifa
 - Bussiness Analyst:	Alen Nurzalalen
 - UI/UX Designer:	Arham Syuhada
-- IT Operation:	Aini Nur Fadilah 
+- IT Analyst:	Aini Nur Fadilah 
 #Proyek Detail
 Pengadaan dan Pemeliharaan Sistem Smart Parking yang diselenggarakan oleh Kementrian Pekerjaan Umum dan Perumahan Rakyat. 
 
@@ -24,6 +24,32 @@ Dengan deskripsi:
 - Terdapat statistik dari pengguna untuk diakses pengguna menggunakan Single Sign on kementerian
 
 # Proses Pembuatan Proyek
+## SCRUM
+## Sprint 1
+- Pembentukan scrum team management
+- Penyediaan kartu parkir karyawan
+- Penyedian barcode parkir tamu
+- Scan kartu parkir
+- Scan barcode
+## Sprint 2
+- Generate kode unique
+- Navigasi tempat parkir
+- Pengkodean lahan parkir
+- Monitor lahan parkir
+- Scan Barcode Keluar
+## Sprint 3
+- Lihat data masuk parkir
+- Lihat data keluar parkir
+- Lihat data pengaduan
+- Cetak laporan
+- Form Pengaduan
+#Sprint 4
+
+#Sprint 5
+#Sprint 6
+
+
+
 ## Product Backlog
 
 ![pbacklog](https://user-images.githubusercontent.com/86569461/209857043-0bdc92b3-549b-4c2a-8e32-6c5e38e0691c.PNG)
